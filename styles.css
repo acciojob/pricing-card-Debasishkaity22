@@ -12,7 +12,7 @@
 	justify-content:center;
 	align-item:center;
 	background-color:lightgray;
-	box-shadow:5px solid lightgray;
+	box-shadow:lightblue 4px 4px 8px;
 	border-radius:10px;
 	padding:10px;
 }
